@@ -1,3 +1,3 @@
 ## YuningChen.github.io
 # special page for mingwei
-### debug by MingW
+### debug by MingWei
