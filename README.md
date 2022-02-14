@@ -1,2 +1,2 @@
-# YuningChen.github.io
+## YuningChen.github.io
 # special page for mingwei
